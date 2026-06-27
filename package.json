@@ -1,0 +1,11 @@
+{
+  "name": "payments-dashboard-cache-refactor",
+  "version": "1.0.0",
+  "description": "Utkrusht payments dashboard refactor task with caching and resilience",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests are defined for this exercise\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
